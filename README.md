@@ -8,6 +8,7 @@
 [![GitHub Downloads](https://img.shields.io/github/downloads/d4rken-org/permission-pilot/total?label=GitHub%20Downloads&logo=github)](https://github.com/d4rken-org/permission-pilot/releases)
 [![Google Play Downloads](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=green&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.myperm%26l%3DGoogle%2520Play%26m%3D%24totalinstalls)](https://play.google.com/store/apps/details?id=eu.darken.myperm)
 [![⭐](https://img.shields.io/endpoint?url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Deu.darken.myperm%26gl%3DUS%26hl%3Den%26l%3D%25E2%25AD%2590%26m%3D%24rating)](https://play.google.com/store/apps/details?id=eu.darken.myperm)
+[![RB Status](https://shields.rbtlog.dev/simple/eu.darken.myperm)](https://shields.rbtlog.dev/eu.darken.myperm)
 
 A new kind of app to help the user view apps and which permissions they use.
 
